@@ -1,4 +1,4 @@
-h1 {
+/*h1 {
     font-family: Arial, "Times New Roma";
     font-size: 30px;
     font-style: italic;
@@ -10,14 +10,17 @@ h1 {
     color: #19BBFF;
     word-spacing: 0px;
     line-height: 40px;
+}*/
+
+.paragraph {
+    font-size: 50px;
+    line-height: 62px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
+    
 }
 
-p {
-    font-size: 22px;
-    line-height: 28px;
-    text-indent: 30px;
-}
-
-a {
+/*a {
     text-decoration: none;
-}
+}*/
