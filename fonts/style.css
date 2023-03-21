@@ -12,13 +12,18 @@
     line-height: 40px;
 }*/
 
+@font-face {
+    src:url(fonts/Nosifer-Regular.ttf);
+    font-family: nos;
+}
+}
+
+
 .paragraph {
     font-size: 50px;
     line-height: 62px;
-    font-family: 'Playfair Display', serif;
-    font-weight: 700;
-    font-style: italic;
-    
+    font-family: nos;
+   
 }
 
 /*a {
